@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Burger</title>
+</head>
+
+<body>
+    <h1>Burger</h1>
+    <img src="img/vegan-burger.webp" width="75" />
+    <h2>Burger recipe</h2>
+    <p>The filling for these vegan burger is ULTRA flavorful, satisfying and easy to make. The mixture can be made on
+        the counter. No one will miss the meat and dairy!</p>
+    <p>This burger recipe happens to be vegan, but you don’t have to be vegan to love it. It’s easy to make, it’s
+        flavorful and fresh, and you can even meal prep it if you want to get ahead on lunch or dinner. </p>
+    <h2>Ingredients</h2>
+    <ul>
+        <li>Burger bread</li>
+        <li>Seitan</li>
+        <li>Vegan cheese</li>
+        <li>Lettuce</li>
+        <li>Avocado</li>
+    </ul>
+    <h2>Steps</h2>
+    <ol>
+        <li>First, prep the fillings.</li>
+        <li>Cook the seitan</li>
+        <li>make a quick vegan mayonnaise with garlic, olive oil, lime juice, and salt</li>
+        <li>Next, fill the bugers.</li>
+        <li>Finally, eat.</li>
+    </ol>
+</body>
+</body>
+
+</html>
